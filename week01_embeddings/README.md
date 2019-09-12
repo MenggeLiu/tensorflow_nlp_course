@@ -42,6 +42,8 @@ If you have any difficulties with notebooks, just open them in [colab](https://c
 
 - **Word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method** Yoav Goldberg, Omer Levy, 2014 [[arxiv]](https://arxiv.org/abs/1402.3722)
 
+- **Don’t count, predict! A systematic comparison of context-counting vs. context-predicting semantic vectors** Marco Baroni, Georgiana Dinu, Germa ́n Kruszewski, ACL 2014, [[paper]](https://www.aclweb.org/anthology/P14-1023)
+
 - **The strange geometry of skip-gram with negative sampling**, David Mimno, Laure Thompson, EMNLP 2017, [[paper]](https://www.aclweb.org/anthology/D17-1308)
 
 - **Characterizing Departures from Linearity in Word Translation** Ndapa Nakashole, Raphael Flauger, ACL 2018, [[paper]](https://aclweb.org/anthology/P18-2036)
