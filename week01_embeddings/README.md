@@ -1,6 +1,6 @@
 ### Word embeddings
-- __lecture slides__ - TBA
-- Our videos: [course intro](https://yadi.sk/i/Ff1jVAODd4P9ug), [lecture](https://yadi.sk/i/wzVA1XYKS2u6NQ), [seminar](https://yadi.sk/i/X5UYALfyyrwzYw)
+- __lecture slides__ - __TBA__
+- Our videos: __TBA__
 - Lecture video from Stanford CS224N - [__intro__](https://www.youtube.com/watch?v=OQQ-W_63UgQ), [__embeddings__](https://www.youtube.com/watch?v=ERibwqs9p38) (english)
 
 
